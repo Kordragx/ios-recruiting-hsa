@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Movies
+
+  Created by Daniel Nunez on 03-03-21.
+  
+*/
+
+"Peliculas" = "Peliculas";
+"Favoritos" = "Favoritos";
+"NoResult" = "No se encontraron resultados.";
+"NoFavorites" = "No tienes favoritos agregados.";
+"ErrorService" = "Ocurrió un error al intentar obtener la información, por favor intenta de nuevo.";
+"Fecha" = "Fecha Lanzamiento {d}";
+
